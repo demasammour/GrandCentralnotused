@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case 001 - Open GC - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c32b3d52-1f1b-4bd8-ae9f-eef4925df2b4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3200630d-613b-4bfd-a9ec-62711b270971</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'/Users/dimaabusamour/git/files for importing compines/first one.xlsx'</defaultValue>
+      <description></description>
+      <id>3200630d-613b-4bfd-a9ec-62711b270971</id>
+      <masked>false</masked>
+      <name>file</name>
+   </variable>
+</TestCaseEntity>
